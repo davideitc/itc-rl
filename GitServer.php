@@ -1,8 +1,3 @@
 <?php
-echo "Devo riuscire a portare questo file sulla cartella git!";
-echo "presente sul server";
-
-echo "prova aggiunta riga Cate";
-echo "davide";
-echo "modifiche ore 16:00";
+echo "la comunicazione tra la cartella su github e la cartella sul server funziona!";
 ?>
